@@ -1,1 +1,1 @@
-# simple-hyperloglog
+# hyperloglog
